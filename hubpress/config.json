@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "evolgenomology",
-    "repositoryName": "evolgenomology.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"evolgenomology","repositoryName":"evolgenomology.github.io","branch":"master"},"site":{"url":"https://evolgenomology.github.io"},"socialnetwork":{"twitter":"@evolgenomology"},"theme":{"name":"Casper","url":"//evolgenomology.github.io/themes/Casper"}}
