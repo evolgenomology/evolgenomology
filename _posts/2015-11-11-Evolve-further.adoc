@@ -2,6 +2,6 @@
 :published_at: 2015-11-11
 :hp-tags: evolution, science, Karneval
 
-On an ordinary at work I am just writing 3 papers, 1 job application (and prepare two further ones), doing 2 different experiments in the lab, and watch people "doing Karneval in Kölle."
+On an ordinary day at work I am just writing 3 papers, 1 job application (and prepare two further ones), doing 2 different experiments in the lab, and watch people "doing Karneval in Kölle."
 
 image::IMG_20151111.jpg[Karneval]
