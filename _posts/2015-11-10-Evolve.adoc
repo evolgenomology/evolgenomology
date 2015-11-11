@@ -3,3 +3,5 @@
 :hp-tags: evolution, science, hello world, first post
 
 OK, this is a rather stupid first title, as obviously you can't, at least not in the biological sense. Anyway,...
+
+image::DSC05317.jpg[]
