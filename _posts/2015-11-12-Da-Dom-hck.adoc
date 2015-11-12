@@ -1,2 +1,2 @@
-= Dä Dom
-image::http://<full path to image>[]
+= Dä Dom h¨¨ck
+image::https://goo.gl/photos/3y1guFeEGgmYQMgN8[]
