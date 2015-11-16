@@ -1,4 +1,4 @@
 = New in the family part 2
 :published_at: 2015-11-18
 :hp-tags: Bonsai
-image::newBonsai.jpg[]
+image::newBonsai.jpg[newBonsai]
