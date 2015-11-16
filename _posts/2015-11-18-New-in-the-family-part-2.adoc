@@ -1,4 +1,7 @@
 = New in the family part 2
 :published_at: 2015-11-18
 :hp-tags: Bonsai
-image::newBonsai.jpg[newBonsai]
+
+Got a new Bonsai for my birthday. Here is a first, rather bad, picture.
+
+image::newBonsai2.jpg[newBonsai]
