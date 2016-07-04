@@ -1,0 +1,8 @@
+= Rock climbing the day after
+:published_at: 2016-07-03
+:hp-tags: Rock climbing, klettern, Muskelkater. RNA-Seq, genome annotation, Augustus
+
+
+Wooaah, as anticipated the rock climbing can be clearly felt today. Well, and maybe I should not have started on the HIIT training yesterday as well.
+Today is rather a grey day in Kolonia and I am wondering how London is - maybe even better. For the fun of it, I am rather sure it will rain there tomorrow, but then rain is fun, so not a prob. 
+Currently, I am trying to annotate a draft genome with Augustus using RNA-Seq data mapped with gsnap. This failed twice after mapping and converting took two days. Turns out, there is a problem in gsnap, if the reads are in one file. For some reason it is shopping of the directional info from the reads (e.g. /1,/2). Thanks to helpful people developing Augustus for explaining this to me very quickly. Brilliant! So, now I am mapping again and will soon (hopefully) see if it works.
