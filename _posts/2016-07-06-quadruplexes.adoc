@@ -1,0 +1,9 @@
+= Quadruplexes
+:published_at: 2016-07-05
+:hp-tags: Quadruplexes, genome annotation, genome structure, sun, dinner, 
+
+My boss recently pointed me to G-quadruplexes in genomic sequence. These strange four stranded structures appear to occur quite frequently in the human genome. Am now doing a bit of research on this.
+At the same time my Augustus genome annotation is still ongoing and I am waiting for some other error in the another program to be fixed before I can go on with a project in yeast.
+
+Meanwhile, London is quite sunny today and I hope it wil remain like this. Yesterday I was invited for dinner by my former boss Maria, along with another colleague. We went to the Lima, a peruvioan restaurant very close to UCL. What can I say, great evening, excellent food, and very good wine.
+
