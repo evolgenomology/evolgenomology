@@ -7,4 +7,4 @@ At the same time my Augustus genome annotation is still ongoing and I am waiting
 
 Meanwhile, London is quite sunny today and I hope it wil remain like this. Yesterday I was invited for dinner by my former boss Maria, along with another colleague. We went to the Lima, a peruvioan restaurant very close to UCL. What can I say, great evening, excellent food, and very good wine.
 
-image::File_000.jpeg[jpg]
+image::File_000.jpeg[]
