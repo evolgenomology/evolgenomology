@@ -1,5 +1,5 @@
 = Tired
-:hp-alt-title: London - Cologne - London - Oxford
+:hp-alt-title: London Cologne London Oxford
 :published_at: 2016-07-08
 :hp-tags: Home, Work, Tired, Oxford, 
 
