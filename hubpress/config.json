@@ -8,7 +8,8 @@
     "title": "incertae sedis",
     "description": "musing on science and evolution ...   \noh, and other important stuff, like Rugby for example.",
     "cover": "image::DSC05317.jpg[]",
-    "postsPerPage": "5"
+    "postsPerPage": "5",
+    "googleAnalytics": "UA-80535950-1"
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/evolgenomology",
