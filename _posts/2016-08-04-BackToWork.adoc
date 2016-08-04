@@ -1,0 +1,13 @@
+= A lot of work
+:published_at: 2016-08-04
+:hp-tags: Work, tired, London, vacations,
+
+*Back* in London I felt very tired this week, and couldn't get quite up to speed with work. Also I got a new computer, which of course I had to set up. Now, before leaving for a week of vacations (including a trip to beautiful Dorset), which I am very much looking forward to, I need to get quite some stuff done. It appears we are in a bit of a race in one of our major projects, so getting things done quickly is paramount.
+Also I need to finish one paper in August. For this there are some analysis to be run and I am currently preparing to do these. Quite excited to use a new tool called _phyldog_, which is designed to infer phylognies for multiple genes and then infer a species tree from these.
+
+'''
+
+*There* is another wedding to attend this weekend, that of my childhood friend Johannes. I am quite looking forward to it - sure it will be great fun.  
+
+
+
