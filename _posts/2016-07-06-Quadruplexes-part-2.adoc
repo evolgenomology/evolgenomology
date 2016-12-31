@@ -6,7 +6,8 @@ Speaking of quadruplexes, I kind of got some too now, for whatever reason. Well,
 
 Well, life ain't good if one can't laugh about oneself. Should always keep that in mind.
 
-image::CameraZOOM-20160701234145009_2.jpg[]
+//image::CameraZOOM-20160701234145009_2.jpg[]  
+
 image::File_000_play.jpg[]
 
 Thinking of it, there are some similarities here:
