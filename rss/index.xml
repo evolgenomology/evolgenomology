@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[incertae sedis]]></title><description><![CDATA[musing on science and evolution ...   
-oh, and other important stuff, like Rugby for example.]]></description><link>https://evolgenomology.github.io</link><image><url>image::DSC01761-crop.jpg[]</url><title>incertae sedis</title><link>https://evolgenomology.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 12 Jan 2017 21:08:29 GMT</lastBuildDate><atom:link href="https://evolgenomology.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[A Scientist's head]]></title><description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>Today I saw two pics on Twitter posted by John Moffitt. I quite liked them.</p>
-</div>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_anecdotal_evidence">Anecdotal evidence</h4>
-<div class="imageblock">
-<div class="content">
-<img src="https://evolgenomology.github.io/images/JohnRMoffitt_2016-Jul-06.jpg" alt="JohnRMoffitt 2016 Jul 06.jpg">
-</div>
-</div>
-<div class="paragraph">
-<p>This one (<a href="https://twitter.com/JohnRMoffitt/status/750807415990263808" class="bare">https://twitter.com/JohnRMoffitt/status/750807415990263808</a>) is certainly true, and extends far into real life. People so often think things, also about themselves, which are based on very insufficient observations. Not that I would make myself free of this. Quite to the contrary.
-But it drives me crazy time after time. Especially, how people build their own reality. This is also nicely explained the book "Thinking Fast and Slow" by Danieal Kahneman. Something everybody should read.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_purity_of_science">Purity of Science</h4>
-<div class="paragraph">
-<p>Well, the only thing I can say "My Head is an Animal", and I am quite happy to be a biologist in this comparison. What is better than fiddling with a squid, if you feel like it?</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="https://evolgenomology.github.io/images/JohnRMoffitt_2016-Jul-06-2.jpg" alt="JohnRMoffitt 2016 Jul 06 2.jpg">
-</div>
-</div>
-</div>]]></description><link>https://evolgenomology.github.io/2016/07/07/A-Scientists-head.html</link><guid isPermaLink="true">https://evolgenomology.github.io/2016/07/07/A-Scientists-head.html</guid><category><![CDATA[Science]]></category><category><![CDATA[ Tweets]]></category><category><![CDATA[ JohnRMoffitt]]></category><category><![CDATA[ Head]]></category><dc:creator><![CDATA[Philipp Schiffer]]></dc:creator><pubDate>Thu, 07 Jul 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Quadruplexes]]></title><description><![CDATA[<div class="paragraph">
+oh, and other important stuff, like Rugby for example.]]></description><link>https://evolgenomology.github.io</link><image><url>image::DSC01761-crop.jpg[]</url><title>incertae sedis</title><link>https://evolgenomology.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 12 Jan 2017 21:09:07 GMT</lastBuildDate><atom:link href="https://evolgenomology.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Quadruplexes]]></title><description><![CDATA[<div class="paragraph">
 <p>My boss recently pointed me to G-quadruplexes in genomic sequence. These strange four stranded structures appear to occur quite frequently in the human genome. Am now doing a bit of research on this.
 At the same time my Augustus genome annotation is still ongoing and I am waiting for some other error in the another program to be fixed before I can go on with a project in yeast.</p>
 </div>
